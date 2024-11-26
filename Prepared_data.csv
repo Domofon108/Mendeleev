@@ -1,0 +1,720 @@
+Reaction,Potential,Symbol,Name,Atomic_Number,Atomic_Mass,Atomic_radius,Covalent_radius,Electrons,Electron_affinity,Period,group,group_name,Electron,environments_ox,environments_red
+Ac3+ + 3e- → Ac,-2.6,Ac,Actinium,89,227.0,195.0,186.0,89,0.35,7,"<Group(symbol=IIIB, name=)>","<Group(symbol=IIIB, name=)>",3,0,0
+Ag2S + 2e- → 2Ag + S2-,-0.69,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+[Ag(CN)3]2- + e- → Ag + 3CN-,-0.51,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+[Ag(CN)2]- + e- → Ag + 2CN-,-0.29,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Ag2S + H+ + 2e- → 2Ag + HS-,-0.272,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,-1,0
+AgI + e- → Ag + I-,-0.152,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+AgCN + e- → Ag + CN-,-0.04,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+[Ag(S2O3)2]3- + e- → Ag + 2S2O32-,0.01,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+AgBr + e- → Ag + Br-,0.071,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+AgSCN + e- → Ag + SCN-,0.09,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Ag4[Fe(CN)6] + 4e- → 4Ag + [Fe(CN)6]4-,0.148,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",4,0,0
+AgCl + e- → Ag + Cl-,0.222,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+AgN3 + e- → Ag + N3-,0.293,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Ag2O + H2O + 2e- → 2Ag + 2OH-,0.344,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,1
+AgIO3 + e- → Ag + IO3-,0.35,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+[Ag(NH3)2]+ + e- → Ag + 2NH3,0.373,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+AgCNO + e- → Ag + CNO-,0.41,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+[Ag(SO3)2]3- + e- → Ag + 2SO32-,0.43,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Ag2CrO4 + 2e- → 2Ag + CrO42-,0.446,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+Ag2CO3 + 2e- → 2Ag + CO32-,0.46,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+Ag2C2O4 + 2e- → 2Ag + C2O42-,0.472,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+Ag2MoO4 + 2e- → 2Ag + MoO42-,0.49,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+Ag2WO4 + 2e- → 2Ag + WO42-,0.53,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+AgBrO3 + e- → Ag + BrO3-,0.55,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+AgNO2 + e- → Ag + NO2-,0.59,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+2AgO + H2O + 2e- → Ag2O + 2OH-,0.6,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,1
+CH3COOAg + e- → Ag + CH3COO-,0.64,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Ag2SO4 + 2e- → 2Ag + SO42-,0.653,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+Ag2O3 + H2O + 2e- → 2AgO + 2OH-,0.74,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,1
+Ag+ + e- → Ag,0.799,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Ag2O + 2H+ + 2e- → 2Ag + H2O,1.173,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,-1,0
+2AgO + 2H+ + 2e- → Ag2O + H2O,1.398,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,-1,0
+Ag2+ + e- → Ag+,2.0,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+AgO+ + 2H+ + e- → Ag2+ + H2O,2.1,Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,-1,0
+AlO2- + 2H2O + 3e- → Al + 4OH-,-2.35,Al,Aluminum,13,26.9815385,125.0,126.0,13,0.43283,3,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,1
+Al(OH)3 + 3e- → Al + 3OH-,-2.31,Al,Aluminum,13,26.9815385,125.0,126.0,13,0.43283,3,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,1
+AlF63- + 3e- → Al + 6F-,-2.07,Al,Aluminum,13,26.9815385,125.0,126.0,13,0.43283,3,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,0
+Al3+ + 3e- → Al,-1.663,Al,Aluminum,13,26.9815385,125.0,126.0,13,0.43283,3,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,0
+Al(OH)3 + 3H+ + 3e- → Al + 3H2O,-1.471,Al,Aluminum,13,26.9815385,125.0,126.0,13,0.43283,3,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,-1,0
+AlO2- + 4H+ + 3e- → Al + 2H2O,-1.262,Al,Aluminum,13,26.9815385,125.0,126.0,13,0.43283,3,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,-1,0
+Am(OH)3 + 3e- → Am + 3OH-,-2.71,Am,Americium,95,243.0,175.0,166.0,95,,7,,,3,0,1
+Am3+ + 3e- → Am,-2.32,Am,Americium,95,243.0,175.0,166.0,95,,7,,,3,0,0
+As + 3H2O + 3e- → AsH3 + 3OH-,-1.37,As,Arsenic,33,74.921595,115.0,121.0,33,0.804,4,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,0,1
+AsO2- + 2H2O + 3e- → As + 4OH-,-0.68,As,Arsenic,33,74.921595,115.0,121.0,33,0.804,4,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,0,1
+AsO43- + 2H2O + 2e- → AsO2- + 4OH-,-0.67,As,Arsenic,33,74.921595,115.0,121.0,33,0.804,4,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,1
+As + 3H+ + 3e- → AsH3,-0.61,As,Arsenic,33,74.921595,115.0,121.0,33,0.804,4,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+HAsO2 + 3H+ + 3e- → As + 2H2O,0.247,As,Arsenic,33,74.921595,115.0,121.0,33,0.804,4,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+H3AsO4 + 2H+ + 2e- → HAsO2 + 2H2O,0.56,As,Arsenic,33,74.921595,115.0,121.0,33,0.804,4,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+AsO43- + 8H+ + 5e- → As + 4H2O,0.648,As,Arsenic,33,74.921595,115.0,121.0,33,0.804,4,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",5,-1,0
+At2 + 2e- → 2At-,0.2,At,Astatine,85,210.0,,147.0,85,2.8,6,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+[Au(CN)2]- + e- → Au + 2CN-,-0.61,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+[Au(SCN)4]- + 2e- → [Au(SCN)2]- + 2SCN-,0.62,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+[Au(SCN)4]- + 3e- → Au + 4SCN-,0.64,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",3,0,0
+[Au(SCN)2]- + e- → Au + 2SCN-,0.66,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+H2AuO3- + H2O + 3e- → Au + 4OH-,0.7,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",3,0,1
+[AuBr4]- + 2e- → [AuBr2]- + 2Br-,0.8,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+[AuBr4]- + 3e- → Au + 4Br-,0.85,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",3,0,0
+[AuCl4]- + 2e- → [AuCl2]- + 2Cl-,0.92,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+[AuBr2]- + e- → Au + 2Br-,0.96,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+[AuCl4]- + 3e- → Au + 4Cl-,1.0,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",3,0,0
+[AuCl2]- + e- → Au + 2Cl-,1.15,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Au3+ + 2e- → Au+,1.401,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+Au3+ + 3e- → Au,1.498,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",3,0,0
+Au+ + e- → Au,1.692,Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+H2BO3- + H2O + 3e- → B + 4OH-,-1.79,B,Boron,5,10.81,85.0,85.0,5,0.279723,2,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,1
+BF4- + 3e- → B + 4F-,-1.04,B,Boron,5,10.81,85.0,85.0,5,0.279723,2,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,0
+H3BO3 + 3H+ + 3e- → B + 3H2O,-0.869,B,Boron,5,10.81,85.0,85.0,5,0.279723,2,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,-1,0
+BO33- + 6H+ + 3e- → B + 3H2O,-0.165,B,Boron,5,10.81,85.0,85.0,5,0.279723,2,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,-1,0
+Ba2+ + 2e- → Ba,-2.905,Ba,Barium,56,137.327,215.0,196.0,56,0.14462,6,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,0,0
+BaO2 + 4H+ + 2e- → Ba2+ + 2H2O,2.365,Ba,Barium,56,137.327,215.0,196.0,56,0.14462,6,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,-1,0
+Be2O32- + 3H2O + 4e- → 2Be + 6OH-,-2.62,Be,Beryllium,4,9.0121831,105.0,102.0,4,-2.4,2,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",4,0,1
+Be2+ + 2e- → Be,-1.847,Be,Beryllium,4,9.0121831,105.0,102.0,4,-2.4,2,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,0,0
+Be(OH)2 + 2H+ + 2e- → Be + 2H2O,-1.82,Be,Beryllium,4,9.0121831,105.0,102.0,4,-2.4,2,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,-1,0
+BeO22- + 4H+ + 2e- → Be + 2H2O,-0.909,Be,Beryllium,4,9.0121831,105.0,102.0,4,-2.4,2,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,-1,0
+Bi + 3H+ + 3e- → BiH3,-0.8,Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+Bi2O3 + 3H2O + 6e- → 2Bi + 6OH-,-0.46,Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,0,1
+BiOCl + 2H+ + 3e- → Bi + H2O + Cl-,0.16,Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+[BiCl4]- + 3e- → Bi + 4Cl-,0.16,Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,0,0
+Bi2O3 + 6H+ + 6e- → 2Bi + 3H2O,0.371,Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,-1,0
+Bi2O4 + H2O + 2e- → Bi2O3 + 2OH-,0.56,Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,1
+Bi3+ + 3e- → Bi,1.215,Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,0,0
+BiO+ + 2H+ + 3e- → Bi + H2O,1.32,Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+Bi2O4 + 4H+ + 2e- → 2BiO+ + 2H2O,1.59,Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+NaBiO3 + 4H+ + 2e- → BiO+ + Na+ + 2H2O,1.8,Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+Bk4+ + e- → Bk3+,1.6,Bk,Berkelium,97,247.0,,168.0,97,,7,,,1,0,0
+2BrO- + 2H2O + 2e- → Br2 + 4OH-,0.45,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,1
+2BrO3- + 6H2O + 10e- → Br2 + 12OH-,0.5,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",10,0,1
+BrO3- + 2H2O + 4e- → BrO- + 4OH-,0.54,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",4,0,1
+BrO3- + 3H2O + 6e- → Br- + 6OH-,0.61,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",6,0,1
+BrO- + H2O + 2e- → Br- + 2OH-,0.76,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,1
+Br3- + 2e- → 3Br-,1.05,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+Br2 + 2e- → 2Br-,1.065,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+HBrO + H+ + 2e- → Br- + H2O,1.34,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+BrO3- + 6H+ + 6e- → Br- + 3H2O,1.44,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",6,-1,0
+BrO3- + 5H+ + 4e- → HBrO + 2H2O,1.45,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",4,-1,0
+2BrO3- + 12H+ + 10e- → Br2 + 6H2O,1.52,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",10,-1,0
+2HBrO + 2H+ + 2e- → Br2 + 2H2O,1.59,Br,Bromine,35,79.904,115.0,114.0,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+HCOO- + 2H2O + 2e- → HCHO + 3OH-,-1.07,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,1
+CNO- + H2O + 2e- → CN- + 2OH-,-0.76,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,1
+2CO2 + 2H+ + 2e- → H2C2O4,-0.49,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+CO2 + 2H+ + 2e- → HCOOH,-0.2,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+CO2 + 2H+ + 2e- → CO + H2O,-0.12,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+CH3COOH + 2H+ + 2e- → CH3CHO + H2O,-0.12,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+HCOOH + 2H+ + 2e- → HCHO + H2O,-0.01,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+CO2 + N2 + 6H+ + 6e- → CO(NH2)2 + H2O,0.1,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",6,-1,0
+C + 4H+ + 4e- → CH4,0.132,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+HCOOH + 4H+ + 4e- → CH3OH + H2O,0.145,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+HCOO- + 3H+ + 2e- → HCHO + H2O,0.167,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+CH3CHO + 2H+ + 2e- → C2H5OH,0.19,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+CO32- + 6H+ + 4e- → HCHO + 2H2O,0.197,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+HCOO- + 5H+ + 4e- → CH3OH + H2O,0.199,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+CO32- + 8H+ + 6e- → CH3OH + 2H2O,0.209,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",6,-1,0
+CO32- + 3H+ + 2e- → HCOO- + H2O,0.227,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+HCHO + 2H+ + 2e- → CH3OH,0.232,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+2HCNO + 2H+ + 2e- → (CN)2 + 2H2O,0.33,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+HCNO + 2H+ + 2e- → HCN + H2O,0.35,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+(CN)2 + 2H+ + 2e- → 2HCN,0.37,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+2CO32- + 4H+ + 2e- → C2O42- + 2H2O,0.441,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+C2H5OH + 2H+ + 2e- → C2H6 + H2O,0.46,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+CO32- + 6H+ + 4e- → C + 3H2O,0.475,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+CO + 6H+ + 6e- → CH4 + H2O,0.497,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",6,-1,0
+CH3OH + 2H+ + 2e- → CH4 + H2O,0.59,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+Quinone + 2H+ + 2e- → Hydroquinone,0.699,C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+Ca(OH)2 + 2e- → Ca + 2OH-,-3.03,Ca,Calcium,20,40.078,180.0,171.0,20,0.02455,4,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,0,1
+Ca2+ + 2e- → Ca,-2.866,Ca,Calcium,20,40.078,180.0,171.0,20,0.02455,4,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,0,0
+CdS + 2e- → Cd + S2-,-1.175,Cd,Cadmium,48,112.414,155.0,136.0,48,,5,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+[Cd(CN)4]2- + 2e- → Cd + 4CN-,-1.09,Cd,Cadmium,48,112.414,155.0,136.0,48,,5,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Cd(OH)2 + 2e- → Cd + 2OH-,-0.81,Cd,Cadmium,48,112.414,155.0,136.0,48,,5,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,1
+CdCO3 + 2e- → Cd + CO32-,-0.74,Cd,Cadmium,48,112.414,155.0,136.0,48,,5,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+[Cd(NH3)4]2+ + 2e- → Cd + 4NH3,-0.61,Cd,Cadmium,48,112.414,155.0,136.0,48,,5,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Cd2+ + 2e- → Cd,-0.403,Cd,Cadmium,48,112.414,155.0,136.0,48,,5,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Cd(OH)2 + 2H+ + 2e- → Cd + 2H2O,0.005,Cd,Cadmium,48,112.414,155.0,136.0,48,,5,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,-1,0
+CdO + 2H+ + 2e- → Cd + H2O,0.063,Cd,Cadmium,48,112.414,155.0,136.0,48,,5,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,-1,0
+Ce3+ + 3e- → Ce,-2.48,Ce,Cerium,58,140.116,185.0,163.0,58,0.65,6,,,3,0,0
+[CeCl6]2- + e- → Ce3+ + 6Cl-,1.28,Ce,Cerium,58,140.116,185.0,163.0,58,0.65,6,,,1,0,0
+[Ce(SO4)3]2- + e- → Ce3+ + 3SO42-,1.44,Ce,Cerium,58,140.116,185.0,163.0,58,0.65,6,,,1,0,0
+Ce4+ + e- → Ce3+,1.61,Ce,Cerium,58,140.116,185.0,163.0,58,0.65,6,,,1,0,0
+[Ce(NO3)6]2- + e- → Ce3+ + 6NO3-,1.61,Ce,Cerium,58,140.116,185.0,163.0,58,0.65,6,,,1,0,0
+[Ce(ClO4)6]2- + e- → Ce3+ + 6ClO4-,1.7,Ce,Cerium,58,140.116,185.0,163.0,58,0.65,6,,,1,0,0
+CeOH3+ + H+ + e- → Ce3+ + H2O,1.7,Ce,Cerium,58,140.116,185.0,163.0,58,0.65,6,,,1,-1,0
+Cf3+ + 3e- → Cf,-1.94,Cf,Californium,98,251.0,,168.0,98,,7,,,3,0,0
+ClO3- + H2O + 2e- → ClO2- + 2OH-,0.33,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,1
+ClO4- + H2O + 2e- → ClO3- + 2OH-,0.36,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,1
+2ClO- + 2H2O + 2e- → Cl2 + 4OH-,0.4,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,1
+ClO4- + 4H2O + 8e- → Cl- + 8OH-,0.56,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",8,0,1
+ClO3- + 3H2O + 6e- → Cl- + 6OH-,0.63,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",6,0,1
+ClO2- + H2O + 2e- → ClO- + 2OH-,0.66,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,1
+ClO2- + 2H2O + 4e- → Cl- + 4OH-,0.77,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",4,0,1
+ClO2 + 2H2O + 5e- → Cl- + 4OH-,0.85,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",5,0,1
+ClO- + H2O + 2e- → Cl- + 2OH-,0.88,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,1
+ClO3- + 2H+ + e- → ClO2 + H2O,1.15,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",1,-1,0
+ClO4- + 2H+ + 2e- → ClO3- + H2O,1.189,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+ClO3- + 3H+ + 2e- → HClO2 + H2O,1.21,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+ClO2 + H+ + e- → HClO2,1.27,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",1,-1,0
+Cl2 + 2e- → 2Cl-,1.359,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+ClO4- + 8H+ + 8e- → Cl- + 4H2O,1.38,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",8,-1,0
+2ClO4- + 16H+ + 14e- → Cl2 + 8H2O,1.39,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",14,-1,0
+ClO3- + 6H+ + 6e- → Cl- + 3H2O,1.451,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",6,-1,0
+2ClO3- + 12H+ + 10e- → Cl2 + 6H2O,1.47,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",10,-1,0
+HClO + H+ + 2e- → Cl- + H2O,1.494,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+ClO2 + 4H+ + 5e- → Cl- + 2H2O,1.51,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",5,-1,0
+2ClO2 + 8H+ + 8e- → Cl2 + 4H2O,1.549,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",8,-1,0
+HClO2 + 3H+ + 4e- → Cl- + 2H2O,1.57,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",4,-1,0
+2HClO + 2H+ + 2e- → Cl2 + 2H2O,1.63,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+2HClO2 + 6H+ + 6e- → Cl2 + 4H2O,1.64,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",6,-1,0
+HClO2 + 2H+ + 2e- → HClO + H2O,1.64,Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+Cm3+ + 3e- → Cm,-2.04,Cm,Curium,96,247.0,,166.0,96,,7,,,3,0,0
+CoS (β) + 2e- → Co + S2-,-1.07,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+CoS (α) + 2e- → Co + S2-,-0.9,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Co(OH)2 + 2e- → Co + 2OH-,-0.73,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,1
+CoCO3 + 2e- → Co + CO32-,-0.64,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+[Co(NH3)6]2+ + 2e- → Co + 6NH3,-0.42,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Co2+ + 2e- → Co,-0.277,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Co(OH)2 + 2H+ + 2e- → Co + 2H2O,0.095,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+[Co(NH3)6]3+ + e- → [Co(NH3)6]2+,0.1,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+CoO + 2H+ + 2e- → Co + H2O,0.166,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+Co(OH)3 + e- → Co(OH)2 + OH-,0.17,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,1
+Co3+ + 3e- → Co,0.4,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,0,0
+Co3+ + e- → Co2+,1.808,Co,Cobalt,27,58.933194,135.0,111.0,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+Cr(OH)2 + 2e- → Cr + 2OH-,-1.4,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",2,0,1
+Cr(OH)3 + 3e- → Cr + 3OH-,-1.3,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",3,0,1
+[Cr(CN)6]3- + e- → [Cr(CN)6]4-,-1.28,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",1,0,0
+CrO2- + 2H2O + 3e- → Cr + 4OH-,-1.2,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",3,0,1
+Cr2+ + 2e- → Cr,-0.913,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",2,0,0
+Cr3+ + 3e- → Cr,-0.744,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",3,0,0
+Cr(OH)3 + 3H+ + 3e- → Cr + 3H2O,-0.654,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",3,-1,0
+Cr3+ + e- → Cr2+,-0.407,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",1,0,0
+CrO2- + 4H+ + 3e- → Cr + 2H2O,-0.213,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",3,-1,0
+CrO42- + 4H2O + 3e- → Cr(OH)3 + 5OH-,-0.13,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",3,0,1
+Cr2O72- + 14H+ + 12e- → 2Cr + 7H2O,0.294,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",12,-1,0
+CrO42- + 8H+ + 6e- → Cr + 4H2O,0.366,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",6,-1,0
+Cr2O72- + 14H+ + 6e- → 2Cr3+ + 7H2O,1.333,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",6,-1,0
+CrO42- + 8H+ + 3e- → Cr3+ + 4H2O,1.477,Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",3,-1,0
+Cs+ + e- → Cs,-2.923,Cs,Cesium,55,132.90545196,260.0,232.0,55,0.471626,6,"<Group(symbol=IA, name=Alkali metals)>","<Group(symbol=IA, name=Alkali metals)>",1,0,0
+Cu2S + 2e- → 2Cu + S2-,-0.89,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+CuS + 2e- → Cu + S2-,-0.76,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+[Cu(CN)2]- + e- → Cu + 2CN-,-0.43,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Cu2O + H2O + 2e- → 2Cu + 2OH-,-0.36,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,1
+CuSCN + e- → Cu + SCN-,-0.27,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Cu(OH)2 + 2e- → Cu + 2OH-,-0.22,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,1
+CuI + e- → Cu + I-,-0.185,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+[Cu(NH3)2]+ + e- → Cu + 2NH3,-0.12,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+2Cu(OH)2 + 2e- → Cu2O + 2OH- + H2O,-0.08,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,1
+[Cu(NH3)4]2+ + 2e- → Cu + 4NH3,-0.07,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+[Cu(NH3)4]2+ + e- → [Cu(NH3)2]+ + 2NH3,-0.01,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+[CuI2]- + e- → Cu + 2I-,0.0,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+CuBr + e- → Cu + Br-,0.03,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+CuCl + e- → Cu + Cl-,0.137,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Cu2+ + e- → Cu+,0.153,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+2Cu2+ + H2O + 2e- → Cu2O + 2H+,0.203,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,-1
+Cu2+ + 2e- → Cu,0.337,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,0,0
+Cu+ + e- → Cu,0.52,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Cu2+ + Cl- + e- → CuCl,0.538,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+CuO + 2H+ + 2e- → Cu + H2O,0.57,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,-1,0
+Cu(OH)2 + 2H+ + 2e- → Cu + 2H2O,0.609,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,-1,0
+Cu2+ + Br- + e- → CuBr,0.64,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+2CuO + 2H+ + 2e- → Cu2O + H2O,0.669,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",2,-1,0
+Cu2+ + I- + e- → CuI,0.86,Cu,Copper,29,63.546,135.0,112.0,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>","<Group(symbol=IB, name=Coinage metals)>",1,0,0
+Dy(OH)3 + 3e- → Dy + 3OH-,-2.78,Dy,Dysprosium,66,162.5,175.0,167.0,66,0.352,6,,,3,0,1
+Dy3+ + 3e- → Dy,-2.353,Dy,Dysprosium,66,162.5,175.0,167.0,66,0.352,6,,,3,0,0
+Er3+ + 3e- → Er,-2.296,Er,Erbium,68,167.259,175.0,165.0,68,,6,,,3,0,0
+Es3+ + 3e- → Es,-1.91,Es,Einsteinium,99,252.0,,165.0,99,,7,,,3,0,0
+Eu2+ + 2e- → Eu,-3.395,Eu,Europium,63,151.964,185.0,168.0,63,0.8640000000000001,6,,,2,0,0
+Eu(OH)3 + 3e- → Eu + 3OH-,-2.83,Eu,Europium,63,151.964,185.0,168.0,63,0.8640000000000001,6,,,3,0,1
+Eu3+ + e- → Eu2+,-0.429,Eu,Europium,63,151.964,185.0,168.0,63,0.8640000000000001,6,,,1,0,0
+F2O + 2H+ + 4e- → 2F- + H2O,2.1,F,Fluorine,9,18.998403163,50.0,64.0,9,3.4011897000000006,2,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",4,-1,0
+F2 + 2e- → 2F-,2.87,F,Fluorine,9,18.998403163,50.0,64.0,9,3.4011897000000006,2,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+FeS + 2e- → Fe + S2-,-0.95,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Fe(OH)2 + 2e- → Fe + 2OH-,-0.877,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,1
+FeCO3 + 2e- → Fe + CO32-,-0.756,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Fe(OH)3 + e- → Fe(OH)2 + OH-,-0.56,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,1
+Fe2+ + 2e- → Fe,-0.44,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Fe3O4 + 8H+ + 8e- → 3Fe + 4H2O,-0.085,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",8,-1,0
+Fe2O3 + H2O + 2H+ + 2e- → 2Fe(OH)2,-0.057,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+Fe2O3 + 6H+ + 6e- → 2Fe + 3H2O,-0.051,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",6,-1,0
+Fe(OH)2 + 2H+ + 2e- → Fe + 2H2O,-0.047,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+Fe3+ + 3e- → Fe,-0.037,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,0,0
+Fe(OH)3 + 3H+ + 3e- → Fe + 3H2O,0.059,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,-1,0
+Fe(OH)3 + H+ + e- → Fe(OH)2 + H2O,0.271,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,-1,0
+[Fe(CN)6]3- + e- → [Fe(CN)6]4-,0.356,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+Fe3+ + e- → Fe2+,0.771,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+Fe3O4 + 8H+ + 2e- → 3Fe2+ + 4H2O,0.98,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+[Fe(Phen)3]3+ + e- → [Fe(Phen)3]2+,1.06,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+FeO42- + 8H+ + 3e- → Fe3+ + 4H2O,2.2,Fe,Iron,26,55.845,140.0,116.0,26,0.151,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,-1,0
+Fm3+ + 3e- → Fm,-1.89,Fm,Fermium,100,257.0,,167.0,100,,7,,,3,0,0
+Fr+ + e- → Fr,-2.92,Fr,Francium,87,223.0,,223.0,87,0.486,7,"<Group(symbol=IA, name=Alkali metals)>","<Group(symbol=IA, name=Alkali metals)>",1,0,0
+H2GaO3- + H2O + 3e- → Ga + 4OH-,-1.33,Ga,Gallium,31,69.723,130.0,124.0,31,0.43,4,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,1
+Ga3+ + e- → Ga2+,-0.65,Ga,Gallium,31,69.723,130.0,124.0,31,0.43,4,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",1,0,0
+Ga3+ + 3e- → Ga,-0.56,Ga,Gallium,31,69.723,130.0,124.0,31,0.43,4,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,0
+Gd(OH)3 + 3e- → Gd + 3OH-,-2.82,Gd,Gadolinium,64,157.25,180.0,169.0,64,,6,,,3,0,1
+Gd3+ + 3e- → Gd,-2.397,Gd,Gadolinium,64,157.25,180.0,169.0,64,,6,,,3,0,0
+HGeO3- + 2H2O + 4e- → Ge + 5OH-,-1.0,Ge,Germanium,32,72.63,125.0,121.0,32,1.232712,4,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,0,1
+H2GeO3 + 4H+ + 2e- → Ge3+ + 3H2O,-0.363,Ge,Germanium,32,72.63,125.0,121.0,32,1.232712,4,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+Ge + 4H+ + 4e- → GeH4,-0.3,Ge,Germanium,32,72.63,125.0,121.0,32,1.232712,4,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+GeO + 2H+ + 2e- → Ge + H2O,-0.29,Ge,Germanium,32,72.63,125.0,121.0,32,1.232712,4,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+GeO2 + 4H+ + 4e- → Ge + 2H2O,-0.15,Ge,Germanium,32,72.63,125.0,121.0,32,1.232712,4,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+H2GeO3 + 4H+ + 4e- → Ge + 3H2O,-0.13,Ge,Germanium,32,72.63,125.0,121.0,32,1.232712,4,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+H2GeO3 + 4H+ + 4e- → Ge + 3H2O,-0.13,Ge,Germanium,32,72.63,125.0,121.0,32,1.232712,4,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+GeO2 + 2H+ + 2e- → GeO + H2O,-0.12,Ge,Germanium,32,72.63,125.0,121.0,32,1.232712,4,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+Ge2+ + 2e- → Ge,0.0,Ge,Germanium,32,72.63,125.0,121.0,32,1.232712,4,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+H2 + 2e- → 2H-,-2.251,H,Hydrogen,1,1.008,25.0,32.0,1,0.754195,1,"<Group(symbol=IA, name=Alkali metals)>","<Group(symbol=IA, name=Alkali metals)>",2,0,0
+2H2O + 2e- → H2 + 2OH-,-0.828,H,Hydrogen,1,1.008,25.0,32.0,1,0.754195,1,"<Group(symbol=IA, name=Alkali metals)>","<Group(symbol=IA, name=Alkali metals)>",2,0,1
+2H+ + 2e- → H2,0.0,H,Hydrogen,1,1.008,25.0,32.0,1,0.754195,1,"<Group(symbol=IA, name=Alkali metals)>","<Group(symbol=IA, name=Alkali metals)>",2,-1,0
+HfO(OH)2 + H2O + 4e- → Hf + 4OH-,-2.5,Hf,Hafnium,72,178.49,155.0,152.0,72,0.0139999999999999,6,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,0,1
+Hf4+ + 4e- → Hf,-1.7,Hf,Hafnium,72,178.49,155.0,152.0,72,0.0139999999999999,6,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,0,0
+HfO2+ + 2H+ + 4e- → Hf + H2O,-1.7,Hf,Hafnium,72,178.49,155.0,152.0,72,0.0139999999999999,6,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,-1,0
+HfO2 + 4H+ + 4e- → Hf + 2H2O,-1.57,Hf,Hafnium,72,178.49,155.0,152.0,72,0.0139999999999999,6,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,-1,0
+HgS + 2e- → Hg + S2-,-0.69,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+[Hg(CN)4]2- + 2e- → Hg + 4CN-,-0.37,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Hg2I2 + 2e- → 2Hg + 2I-,-0.041,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+HgI4 + 4e- → Hg + 4I-,-0.04,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",4,0,0
+HgO + H2O + 2e- → Hg + 2OH-,0.098,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,1
+Hg2Br2 + 2e- → 2Hg + 2Br-,0.14,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+[HgBr4]2- + 2e- → Hg + 4Br-,0.21,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Hg2Cl2 + 2e- → 2Hg + 2Cl-,0.268,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+[HgCl4]2- + 2e- → Hg + 4Cl-,0.38,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Hg2(IO3)2 + 2e- → 2Hg + 2IO3-,0.394,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Hg2C2O4 + 2e- → 2Hg + C2O42-,0.415,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+(CH3COO)2Hg2 + 2e- → 2Hg + 2CH3COO-,0.51,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Hg2SO4 + 2e- → 2Hg + SO42-,0.615,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Hg22+ + 2e- → 2Hg,0.788,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Hg2+ + 2e- → Hg,0.85,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+2Hg2+ + 2e- → Hg22+,0.92,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+HgO + 2H+ + 2e- → Hg + H2O,0.926,Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,-1,0
+Ho(OH)3 + 3e- → Ho + 3OH-,-2.77,Ho,Holmium,67,164.93033,175.0,166.0,67,,6,,,3,0,1
+Ho3+ + 3e- → Ho,-2.319,Ho,Holmium,67,164.93033,175.0,166.0,67,,6,,,3,0,0
+IO3- + 2H2O + 4e- → IO- + 4OH-,0.14,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",4,0,1
+2IO3- + 6H2O + 10e- → I2 + 12OH-,0.21,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",10,0,1
+IO3- + 3H2O + 6e- → I- + 6OH-,0.25,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",6,0,1
+ICN + 2e- → I- + CN-,0.3,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+H3IO62- + 3H2O + 8e- → I- + 9OH-,0.37,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",8,0,1
+2IO- + 2H2O + 2e- → I2 + 4OH-,0.45,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,1
+IO- + H2O + 2e- → I- + 2OH-,0.49,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,1
+I2 + 2e- → 2I-,0.536,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+I3- + 2e- → 3I-,0.545,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+2ICN + 2H+ + 2e- → I2 + 2HCN,0.63,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+H3IO62- + 2e- → IO3- + 3OH-,0.7,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,1
+2IBr2- + 2e- → I2 + 4Br-,0.87,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+HIO + H+ + 2e- → I- + H2O,0.99,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+2IBr + 2e- → I2 + 2Br-,1.02,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+2ICl2- + 2e- → I2 + 4Cl-,1.06,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+IO3- + 6H+ + 6e- → I- + 3H2O,1.085,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",6,-1,0
+IO3- + 5H+ + 4e- → HIO + 2H2O,1.14,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",4,-1,0
+2IO3- + 12H+ + 10e- → I2 + 6H2O,1.19,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",10,-1,0
+2ICl + 2e- → I2 + 2Cl-,1.19,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,0,0
+H5IO6 + 7H+ + 8e- → I- + 6H2O,1.24,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",8,-1,0
+2ICl3 + 6e- → I2 + 6Cl-,1.28,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",6,0,0
+2HIO + 2H+ + 2e- → I2 + 2H2O,1.45,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+H5IO6 + H+ + 2e- → IO3- + 3H2O,1.6,I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>","<Group(symbol=VIIA, name=Halogens)>",2,-1,0
+In(OH)3 + 3e- → In + 3OH-,-1.0,In,Indium,49,114.818,155.0,142.0,49,0.3,5,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,1
+In3+ + 2e- → In+,-0.45,In,Indium,49,114.818,155.0,142.0,49,0.3,5,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",2,0,0
+In3+ + 3e- → In,-0.34,In,Indium,49,114.818,155.0,142.0,49,0.3,5,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,0
+In+ + e- → In,-0.25,In,Indium,49,114.818,155.0,142.0,49,0.3,5,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",1,0,0
+IrO2 + 2H2O + 4e- → Ir + 4OH-,0.1,Ir,Iridium,77,192.217,135.0,122.0,77,1.5638,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",4,0,1
+Ir2O3 + 3H2O + 6e- → 2Ir + 6OH-,0.1,Ir,Iridium,77,192.217,135.0,122.0,77,1.5638,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",6,0,1
+[IrCl6]3- + 3e- → Ir + 6Cl-,0.77,Ir,Iridium,77,192.217,135.0,122.0,77,1.5638,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,0,0
+[IrCl6]2- + 4e- → Ir + 6Cl-,0.83,Ir,Iridium,77,192.217,135.0,122.0,77,1.5638,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",4,0,0
+IrO2 + 4H+ + 4e- → Ir + 2H2O,0.93,Ir,Iridium,77,192.217,135.0,122.0,77,1.5638,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",4,-1,0
+Ir3+ + 3e- → Ir,1.0,Ir,Iridium,77,192.217,135.0,122.0,77,1.5638,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,0,0
+[IrCl6]2- + e- → [IrCl6]3-,1.017,Ir,Iridium,77,192.217,135.0,122.0,77,1.5638,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+K+ + e- → K,-2.924,K,Potassium,19,39.0983,220.0,196.0,19,0.50147,4,"<Group(symbol=IA, name=Alkali metals)>","<Group(symbol=IA, name=Alkali metals)>",1,0,0
+La(OH)3 + 3e- → La + 3OH-,-2.9,La,Lanthanum,57,138.90547,195.0,180.0,57,0.47,6,"<Group(symbol=IIIB, name=)>","<Group(symbol=IIIB, name=)>",3,0,1
+La3+ + 3e- → La,-2.522,La,Lanthanum,57,138.90547,195.0,180.0,57,0.47,6,"<Group(symbol=IIIB, name=)>","<Group(symbol=IIIB, name=)>",3,0,0
+Li+ + e- → Li,-3.045,Li,Lithium,3,6.94,145.0,133.0,3,0.618049,2,"<Group(symbol=IA, name=Alkali metals)>","<Group(symbol=IA, name=Alkali metals)>",1,0,0
+Lr3+ + 3e- → Lr,-1.96,Lr,Lawrencium,103,262.0,,161.0,103,,7,,,3,0,0
+Lu3+ + 3e- → Lu,-2.28,Lu,Lutetium,71,174.9668,175.0,162.0,71,0.34,6,,,3,0,0
+Md3+ + 3e- → Md,-1.65,Md,Mendelevium,101,258.0,,173.0,101,,7,,,3,0,0
+Mg(OH)2 + 2e- → Mg + 2OH-,-2.69,Mg,Magnesium,12,24.305,150.0,139.0,12,,3,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,0,1
+Mg2+ + 2e- → Mg,-2.363,Mg,Magnesium,12,24.305,150.0,139.0,12,,3,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,0,0
+Mg(OH)2 + 2H+ + 2e- → Mg + 2H2O,-1.862,Mg,Magnesium,12,24.305,150.0,139.0,12,,3,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,-1,0
+Mn(OH)2 + 2e- → Mn + 2OH-,-1.55,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,0,1
+MnCO3 + 2e- → Mn + CO32-,-1.48,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,0,0
+Mn2+ + 2e- → Mn,-1.179,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,0,0
+Mn(OH)2 + 2H+ + 2e- → Mn + 2H2O,-0.727,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,-1,0
+[Mn(CN)6]3- + e- → [Mn(CN)6]4-,-0.244,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,0,0
+Mn(OH)3 + e- → Mn(OH)2 + OH-,0.1,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,0,1
+MnO4- + e- → MnO42-,0.564,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,0,0
+MnO4- + 2H2O + 3e- → MnO2 + 4OH-,0.6,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",3,0,1
+MnO2 + 4H+ + 2e- → Mn2+ + 2H2O,1.228,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,-1,0
+Mn2O3 + 6H+ + 2e- → 2Mn2+ + 3H2O,1.443,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,-1,0
+MnO4- + 8H+ + 5e- → Mn2+ + 4H2O,1.507,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",5,-1,0
+Mn3+ + e- → Mn2+,1.509,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,0,0
+MnO4- + 4H+ + 3e- → MnO2 + 2H2O,1.692,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",3,-1,0
+Mn3O4 + 8H+ + 2e- → 3Mn2+ + 4H2O,1.75,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,-1,0
+Mn(OH)3 + 3H+ + e- → Mn2+ + 3H2O,1.84,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,-1,0
+MnO42- + 4H+ + 2e- → MnO2 + 2H2O,2.257,Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,-1,0
+MoO42- + 4H2O + 6e- → Mo + 8OH-,-1.05,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",6,0,1
+Mo3+ + 3e- → Mo,-0.2,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",3,0,0
+MoO2 + 4H+ + 4e- → Mo + 2H2O,-0.072,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",4,-1,0
+MoO2+ + 4H+ + 2e- → Mo3+ + 2H2O,0.0,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",2,-1,0
+H2MoO4 + 6H+ + 6e- → Mo + 4H2O,0.0,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",6,-1,0
+MoO42- + 8H+ + 6e- → Mo + 4H2O,0.154,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",6,-1,0
+MoO3 + 2H+ + 2e- → MoO2 + H2O,0.32,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",2,-1,0
+H2MoO4 + 2H+ + 2e- → MoO2 + 2H2O,0.39,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",2,-1,0
+MoO22+ + e- → MoO2+,0.48,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",1,0,0
+MoO42- + 4H+ + 2e- → MoO2 + 2H2O,0.606,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",2,-1,0
+[Mo(CN)6]3- + e- → [Mo(CN)6]4-,0.725,Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",1,0,0
+3N2 + 2e- → 2N3-,-3.4,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,0
+3N2 + 2H+ + 2e- → 2HN3,-3.1,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+N2 + 4H2O + 2e- → 2NH2OH + 2OH-,-3.04,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,1
+N2 + 2H2O + 4H+ + 2e- → 2NH2OH·H+,-1.87,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,-1
+N2 + 4H2O + 4e- → N2H4 + 4OH-,-1.16,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",4,0,1
+NO3- + H2O + e- → NO2 + 2OH-,-0.86,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",1,0,1
+N2 + 8H2O + 6e- → 2NH4OH + 6OH-,-0.74,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,0,1
+N3- + 7H2O + 6e- → N2H4 + NH3 + 7OH-,-0.62,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,0,1
+NO2- + H2O + e- → NO + 2OH-,-0.46,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",1,0,1
+N2 + 5H+ + 4e- → N2H4·H+,-0.23,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",4,-1,-1
+NO2- + 6H2O + 6e- → NH4OH + 7OH-,-0.15,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,0,1
+NO3- + 2H2O + 3e- → NO + 4OH-,-0.14,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,0,1
+NO3- + 7H2O + 8e- → NH4OH + 9OH-,-0.12,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",8,0,1
+NO3- + H2O + 2e- → NO2- + 2OH-,0.01,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,1
+N2 + 6H+ + 6e- → 2NH3,0.057,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,-1,0
+N2H4 + 4H2O + 2e- → 2NH4OH + 2OH-,0.1,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,1
+N2 + 8H+ + 6e- → 2NH4+,0.275,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,-1,0
+2NO2- + 4H2O + 6e- → N2 + 8OH-,0.41,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,0,1
+NH2OH + 2H2O + 2e- → NH4OH + 2OH-,0.42,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,1
+H2N2O2 + 6H+ + 4e- → 2NH2OH·H+,0.5,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",4,-1,-1
+2NO2 + 4H2O + 8e- → N2 + 8OH-,0.53,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",8,0,1
+HN3 + 11H+ + 8e- → 3NH4+,0.69,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",8,-1,0
+NO3- + 8H+ + 6e- → NH2OH·H+ + 2H2O,0.73,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,-1,-1
+NO3- + 2H+ + e- → NO2 + H2O,0.78,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",1,-1,0
+2HNO2 + 4H+ + 4e- → H2N2O2 + 2H2O,0.83,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",4,-1,0
+2NO3- + 17H+ + 14e- → N2H4·H+ + 6H2O,0.84,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",14,-1,-1
+2NO + 2H2O + 4e- → N2 + 4OH-,0.85,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",4,0,1
+HNO2 + 7H+ + 6e- → NH4+ + 2H2O,0.864,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,-1,0
+NO3- + 10H+ + 8e- → NH4+ + 3H2O,0.87,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",8,-1,0
+NO2 + e- → NO2-,0.88,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",1,0,0
+N2O + H2O + 2e- → N2 + 2OH-,0.94,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,1
+NO3- + 3H+ + 2e- → HNO2 + H2O,0.94,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+NO3- + 4H+ + 3e- → NO + 2H2O,0.957,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+HNO2 + H+ + e- → NO + H2O,1.0,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",1,-1,0
+NO2 + H+ + e- → HNO2,1.09,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",1,-1,0
+2NO3- + 10H+ + 8e- → N2O + 5H2O,1.116,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",8,-1,0
+2NO3- + 12H+ + 10e- → N2 + 6H2O,1.246,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",10,-1,0
+N2H4·H+ + 3H+ + 2e- → 2NH4+,1.27,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+2HNO2 + 4H+ + 4e- → N2O + 3H2O,1.297,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",4,-1,0
+NH2OH·H+ + 2H+ + 2e- → NH4+ + H2O,1.35,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+2NO2 + 8H+ + 8e- → N2 + 4H2O,1.36,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",8,-1,0
+2HNO2 + 6H+ + 6e- → N2 + 4H2O,1.45,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,-1,0
+2NO + 4H+ + 4e- → N2 + 2H2O,1.678,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",4,-1,0
+N2O + 2H+ + 2e- → N2 + H2O,1.766,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+H2N2O2 + 2H+ + 2e- → N2 + 2H2O,2.65,N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+Na+ + e- → Na,-2.714,Na,Sodium,11,22.98976928,180.0,155.0,11,0.547926,3,"<Group(symbol=IA, name=Alkali metals)>","<Group(symbol=IA, name=Alkali metals)>",1,0,0
+Nb3+ + 3e- → Nb,-1.1,Nb,Niobium,41,92.90637,145.0,147.0,41,0.917406,5,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",3,0,0
+NbO + 2H+ + 2e- → Nb + H2O,-0.733,Nb,Niobium,41,92.90637,145.0,147.0,41,0.917406,5,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",2,-1,0
+Nb2O5 + 10H+ + 10e- → 2Nb + 5H2O,-0.65,Nb,Niobium,41,92.90637,145.0,147.0,41,0.917406,5,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",10,-1,0
+NbO(SO4)2- + 2H+ + 5e- → Nb + H2O + 2SO42-,-0.63,Nb,Niobium,41,92.90637,145.0,147.0,41,0.917406,5,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",5,-1,0
+NbO2 + 2H+ + 2e- → NbO + H2O,-0.625,Nb,Niobium,41,92.90637,145.0,147.0,41,0.917406,5,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",2,-1,0
+NbO3+ + 2H+ + 2e- → Nb3+ + H2O,-0.34,Nb,Niobium,41,92.90637,145.0,147.0,41,0.917406,5,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",2,-1,0
+Nb2O5 + 2H+ + 2e- → 2NbO2 + H2O,-0.289,Nb,Niobium,41,92.90637,145.0,147.0,41,0.917406,5,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",2,-1,0
+NbO(SO4)2- + 2H+ + 2e- → Nb3+ + H2O + 2SO42-,-0.1,Nb,Niobium,41,92.90637,145.0,147.0,41,0.917406,5,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",2,-1,0
+Nd3+ + 3e- → Nd,-2.431,Nd,Neodymium,60,144.242,185.0,174.0,60,1.916,6,,,3,0,0
+NiS (γ) + 2e- → Ni + S2-,-1.04,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+NiS (α) + 2e- → Ni + S2-,-0.83,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Ni(OH)2 + 2e- → Ni + 2OH-,-0.72,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,1
+[Ni(NH3)6]2+ + 2e- → Ni + 6NH3,-0.49,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+NiCO3 + 2e- → Ni + CO32-,-0.45,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+[Ni(CN)4]2- + e- → [Ni(CN)3]2- + CN-,-0.4,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+Ni2+ + 2e- → Ni,-0.25,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Ni(OH)2 + 2H+ + 2e- → Ni + 2H2O,0.11,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+NiO + 2H+ + 2e- → Ni + H2O,0.116,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+NiO2 + 2H2O + 2e- → Ni(OH)2 + 2OH-,0.49,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,1
+NiO2 + 4H+ + 2e- → Ni2+ + 2H2O,1.68,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+NiO42- + 8H+ + 4e- → Ni2+ + 4H2O,1.8,Ni,Nickel,28,58.6934,135.0,110.0,28,1.156,4,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",4,-1,0
+No3+ + 3e- → No,-1.2,No,Nobelium,102,259.0,,176.0,102,,7,,,3,0,0
+Np3+ + 3e- → Np,-1.856,Np,Neptunium,93,237.0,175.0,171.0,93,,7,,,3,0,0
+Np4+ + e- → Np3+,0.152,Np,Neptunium,93,237.0,175.0,171.0,93,,7,,,1,0,0
+NpO2+ + 4H+ + 2e- → Np3+ + 2H2O,0.451,Np,Neptunium,93,237.0,175.0,171.0,93,,7,,,2,-1,0
+NpO2+ + e- → NpO2,0.564,Np,Neptunium,93,237.0,175.0,171.0,93,,7,,,1,0,0
+NpO22+ + e- → NpO2+,1.149,Np,Neptunium,93,237.0,175.0,171.0,93,,7,,,1,0,0
+Np2O5 + 2H+ + 2e- → 2NpO2 + H2O,1.253,Np,Neptunium,93,237.0,175.0,171.0,93,,7,,,2,-1,0
+O2 + H2O + 2e- → HO2- + OH-,-0.076,O,Oxygen,8,15.999,60.0,63.0,8,1.4611135,2,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,1
+O2 + 2H2O + 4e- → 4OH-,0.401,O,Oxygen,8,15.999,60.0,63.0,8,1.4611135,2,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,0,1
+O2 + 2H+ + 2e- → H2O2,0.682,O,Oxygen,8,15.999,60.0,63.0,8,1.4611135,2,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+HO2- + H2O + 2e- → 3OH-,0.88,O,Oxygen,8,15.999,60.0,63.0,8,1.4611135,2,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,1
+O2 + 4H+ + 4e- → 2H2O,1.228,O,Oxygen,8,15.999,60.0,63.0,8,1.4611135,2,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,-1,0
+O3 + H2O + 2e- → O2 + 2OH-,1.24,O,Oxygen,8,15.999,60.0,63.0,8,1.4611135,2,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,1
+O3 + 6H+ + 6e- → 3H2O,1.511,O,Oxygen,8,15.999,60.0,63.0,8,1.4611135,2,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",6,-1,0
+H2O2 + 2H+ + 2e- → 2H2O,1.776,O,Oxygen,8,15.999,60.0,63.0,8,1.4611135,2,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+O3 + 2H+ + 2e- → O2 + H2O,2.07,O,Oxygen,8,15.999,60.0,63.0,8,1.4611135,2,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+OsO2 + 2H2O + 4e- → Os + 4OH-,-0.15,Os,Osmium,76,190.23,130.0,129.0,76,1.1,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",4,0,1
+HOsO5- + 4H2O + 8e- → Os + 9OH-,0.02,Os,Osmium,76,190.23,130.0,129.0,76,1.1,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",8,0,1
+[OsCl6]3- + e- → Os2+ + 6Cl-,0.4,Os,Osmium,76,190.23,130.0,129.0,76,1.1,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+[OsCl6]3- + 3e- → Os + 6Cl-,0.71,Os,Osmium,76,190.23,130.0,129.0,76,1.1,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,0,0
+OsO4 + 8H+ + 8e- → Os + 4H2O,0.85,Os,Osmium,76,190.23,130.0,129.0,76,1.1,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",8,-1,0
+Os2+ + 2e- → Os,0.85,Os,Osmium,76,190.23,130.0,129.0,76,1.1,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+[OsCl6]2- + e- → [OsCl6]3-,0.85,Os,Osmium,76,190.23,130.0,129.0,76,1.1,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+OsO4 + 4H+ + 4e- → OsO2 + 2H2O,0.96,Os,Osmium,76,190.23,130.0,129.0,76,1.1,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",4,-1,0
+OsO4 + 6Cl- + 8H+ + 4e- → [OsCl6]2- + 4H2O,1.0,Os,Osmium,76,190.23,130.0,129.0,76,1.1,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",4,-1,0
+H2PO2- + e- → P + 2OH-,-2.05,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",1,0,1
+HPO32- + 2H2O + 2e- → H2PO2- + 3OH-,-1.57,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,1
+PO43- + 2H2O + 2e- → HPO32- + 3OH-,-1.12,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,1
+2H3PO4 + 2H+ + 2e- → H4P2O6 + 2H2O,-0.94,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+P + 3H2O + 3e- → PH3 + 3OH-,-0.89,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,0,1
+H3PO2 + H+ + e- → P + 2H2O,-0.51,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",1,-1,0
+H3PO3 + 3H+ + 3e- → P + 3H2O,-0.502,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+H3PO3 + 2H+ + 2e- → H3PO2 + H2O,-0.5,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+H3PO4 + 5H+ + 5e- → P + 4H2O,-0.411,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",5,-1,0
+H3PO4 + 4H+ + 4e- → H3PO2 + 2H2O,-0.39,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",4,-1,0
+H3PO4 + 2H+ + 2e- → H3PO3 + H2O,-0.276,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+P + 3H+ + 3e- → PH3,0.06,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+H4P2O6 + 2H+ + 2e- → 2H3PO3,0.38,P,Phosphorus,15,30.973761998,100.0,111.0,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+Pa3+ + 3e- → Pa,-1.34,Pa,Protactinium,91,231.03588,180.0,169.0,91,,7,,,3,0,0
+PbS + 2e- → Pb + S2-,-0.93,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+PbO + H2O + 2e- → Pb + 2OH-,-0.58,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,1
+HPbO2- + H2O + 2e- → Pb + 3OH-,-0.54,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,1
+PbCO3 + 2e- → Pb + CO32-,-0.506,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+PbI2 + 2e- → Pb + 2I-,-0.365,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+PbSO4 + 2e- → Pb + SO42-,-0.356,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+PbF2 + 2e- → Pb + 2F-,-0.35,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+PbBr2 + 2e- → Pb + 2Br-,-0.28,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+PbCl2 + 2e- → Pb + 2Cl-,-0.268,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+Pb2+ + 2e- → Pb,-0.126,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+PbO32- + H2O + 2e- → PbO22- + 2OH-,0.2,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,1
+PbO + 2H+ + 2e- → Pb + H2O,0.248,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+Pb3O4 + H2O + 2e- → 3PbO + 2OH-,0.25,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,1
+Pb(OH)2 + 2H+ + 2e- → Pb + H2O,0.277,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+PbO2 + H2O + 2e- → PbO + 2OH-,0.28,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,1
+Pb4+ + 4e- → Pb,0.77,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,0,0
+Pb3O4 + 2H+ + 2e- → 3PbO + H2O,0.972,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+PbO2 + 4H+ + 2e- → Pb2+ + 2H2O,1.449,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+PbO2 + SO42- + 4H+ + 2e- → PbSO4 + 2H2O,1.685,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+Pb4+ + 2e- → Pb2+,1.694,Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+Pd(OH)2 + 2e- → Pd + 2OH-,0.07,Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,1
+[PdI6]2- + 2e- → [PdI4]2- + 2I-,0.623,Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+[PdCl4]2- + 2e- → Pd + 4Cl-,0.623,Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Pd(OH)4 + 2e- → Pd(OH)2 + 2OH-,0.73,Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,1
+PdO + 2H+ + 2e- → Pd + H2O,0.85,Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+[PdCl6]2- + 4e- → Pd + 6Cl-,0.96,Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",4,0,0
+Pd2+ + 2e- → Pd,0.987,Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+[PdBr6]2- + 2e- → [PdBr4]2- + 2Br-,0.993,Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+PdO2 + 2H+ + 2e- → PdO + H2O,1.263,Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+[PdCl6]2- + 2e- → [PdCl4]2- + 2Cl-,1.288,Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Pm3+ + 3e- → Pm,-2.423,Pm,Promethium,61,144.91276,185.0,173.0,61,,6,,,3,0,0
+Po2+ + 2e- → Po,0.37,Po,Polonium,84,209.0,190.0,145.0,84,1.9,6,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,0
+Pr3+ + 3e- → Pr,-2.462,Pr,Praseodymium,59,140.90766,185.0,176.0,59,0.962,6,,,3,0,0
+PtS + 2e- → Pt + S2-,-0.95,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+PtS2 + 2e- → PtS + S2-,-0.64,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Pt(OH)2 + 2e- → Pt + 2OH-,0.15,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,1
+[PtI6]2- + 2e- → [PtI4]2- + 2I-,0.393,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+[PtBr4]2- + 2e- → Pt + 4Br-,0.58,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+[PtBr6]2- + 2e- → [PtBr4]2- + 2Br-,0.59,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+[PtCl6]2- + 2e- → [PtCl4]2- + 2Cl-,0.68,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+[PtCl4]2- + 2e- → Pt + 4Cl-,0.73,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Pt(OH)2 + 2H+ + 2e- → Pt + 2H2O,0.98,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+PtO2 + 2H+ + 2e- → Pt(OH)2,1.045,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+Pt2+ + 2e- → Pt,1.188,Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Pu(OH)3 + 3e- → Pu + 3OH-,-2.42,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,3,0,1
+Pu3+ + 3e- → Pu,-2.031,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,3,0,0
+Pu2O3 + 6H+ + 6e- → 2Pu + 3H2O,-1.592,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,6,-1,0
+Pu(OH)4 + e- → Pu(OH)3 + OH-,-0.95,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,1,0,1
+2PuO2 + 2H+ + 2e- → Pu2O3 + H2O,-0.455,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,2,-1,0
+PuO2 + 4H+ + e- → Pu3+ + 2H2O,0.862,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,1,-1,0
+PuO22+ + e- → PuO2+,0.928,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,1,0,0
+Pu4+ + e- → Pu3+,0.967,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,1,0,0
+PuO22+ + 4H+ + 3e- → Pu3+ + 2H2O,1.017,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,3,-1,0
+PuO22+ + 4H+ + 2e- → Pu4+ + 2H2O,1.04,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,2,-1,0
+PuO22+ + 2e- → PuO2,1.092,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,2,0,0
+Pu(OH)4 + 4H+ + e- → Pu3+ + 4H2O,1.182,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,1,-1,0
+PuO3 + H2O + 2H+ + e- → Pu(OH)4,1.325,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,1,-1,0
+PuO3 + 2H+ + 2e- → PuO2 + H2O,1.485,Pu,Plutonium,94,244.0,175.0,172.0,94,,7,,,2,-1,0
+Ra2+ + 2e- → Ra,-2.92,Ra,Radium,88,226.0,215.0,201.0,88,0.1,7,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,0,0
+Rb+ + e- → Rb,-2.925,Rb,Rubidium,37,85.4678,235.0,210.0,37,0.4859199999999999,5,"<Group(symbol=IA, name=Alkali metals)>","<Group(symbol=IA, name=Alkali metals)>",1,0,0
+ReO4- + 2H2O + 3e- → ReO2 + 4OH-,-0.595,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",3,0,1
+ReO4- + 4H2O + 7e- → Re + 8OH-,-0.584,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",7,0,1
+Re+ + e- → Re,-0.324,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,0,0
+Re+ + 2e- → Re-,-0.23,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,0,0
+Re3+ + e- → Re2+,-0.23,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,0,0
+Re + e- → Re-,-0.136,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,0,0
+Re2+ + e- → Re+,0.02,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,0,0
+ReO2 + 4H+ + e- → Re3+ + 2H2O,0.157,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,-1,0
+ReO4- + 8H+ + 6Cl- + 3e- → [ReCl6]2- + 4H2O,0.19,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",3,-1,0
+ReO2 + 4H+ + 4e- → Re + 2H2O,0.25,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",4,-1,0
+Re3+ + 3e- → Re,0.3,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",3,0,0
+ReO4- + 8H+ + 7e- → Re + 4H2O,0.37,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",7,-1,0
+ReO3 + 2H+ + 2e- → ReO2 + H2O,0.4,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,-1,0
+ReO4- + 8H+ + 4e- → Re3+ + 4H2O,0.422,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",4,-1,0
+[ReCl6]2- + 4e- → Re + 6Cl-,0.5,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",4,0,0
+ReO4- + 4H+ + 3e- → ReO2 + 2H2O,0.51,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",3,-1,0
+ReO4- + 2H+ + e- → ReO3 + 2H2O,0.77,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,-1,0
+ReO42- + 8H+ + 3e- → Re3+ + 4H2O,0.795,Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",3,-1,0
+[RhCl6]3- + 3e- → Rh + 6Cl-,0.44,Rh,Rhodium,45,102.9055,135.0,125.0,45,1.137,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,0,0
+Rh3+ + 3e- → Rh,0.8,Rh,Rhodium,45,102.9055,135.0,125.0,45,1.137,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,0,0
+Rh2O3 + 6H+ + 6e- → 2Rh + 3H2O,0.87,Rh,Rhodium,45,102.9055,135.0,125.0,45,1.137,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",6,-1,0
+RhO2+ + 2H+ + e- → Rh3+ + H2O,1.4,Rh,Rhodium,45,102.9055,135.0,125.0,45,1.137,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,-1,0
+RhO2 + 4H+ + 6Cl- + e- → [RhCl6]3- + 2H2O,1.4,Rh,Rhodium,45,102.9055,135.0,125.0,45,1.137,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,-1,0
+RhO42- + 6H+ + 2e- → RhO2+ + 3H2O,1.46,Rh,Rhodium,45,102.9055,135.0,125.0,45,1.137,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,-1,0
+[Ru(NH3)6]3+ + e- → [Ru(NH3)6]2+,0.214,Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+Ru3+ + e- → Ru2+,0.249,Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+[RuCl5]- + 2e- → Ru2+ + 5Cl-,0.3,Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+Ru3+ + 3e- → Ru,0.38,Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,0,0
+Ru2+ + 2e- → Ru,0.45,Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",2,0,0
+RuO4- + e- → RuO42-,0.6,Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+RuCl3 + 3e- → Ru + 3Cl-,0.68,Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",3,0,0
+RuO2 + 4H+ + 4e- → Ru + 2H2O,0.79,Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",4,-1,0
+RuO4 + e- → RuO4-,1.0,Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,0,0
+[RuCl5OH]2- + H+ + e- → [RuCl5]2- + H2O,1.3,Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>","<Group(symbol=VIIIB, name=)>",1,-1,0
+2SO32- + 2H2O + 2e- → S2O42- + 4OH-,-1.12,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,1
+SO42- + H2O + 2e- → SO32- + 2OH-,-0.93,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,1
+2SO42- + 5H2O + 8e- → S2O32- + 10OH-,-0.76,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",8,0,1
+SO42- + 4H2O + 6e- → S + 8OH-,-0.75,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",6,0,1
+SO32- + 3H2O + 4e- → S + 6OH-,-0.66,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,0,1
+2SO32- + 3H2O + 4e- → S2O32- + 6OH-,-0.58,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,0,1
+S22- + 2e- → 2S2-,-0.524,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,0
+S + 2e- → S2-,-0.48,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,0
+2S + 2e- → S22-,-0.476,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,0
+5S + 2e- → S52-,-0.34,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,0
+2H2SO3 + H+ + 2e- → HS2O4- + 2H2O,-0.08,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+S + H+ + 2e- → HS-,-0.065,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+S2O32- + 6H+ + 8e- → 2S2- + 3H2O,-0.006,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",8,-1,0
+S4O62- + 2e- → 2S2O32-,0.09,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,0
+SO42- + 8H+ + 8e- → S2- + 4H2O,0.149,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",8,-1,0
+S + 2H+ + 2e- → H2S,0.17,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+SO42- + 4H+ + 2e- → H2SO3 + H2O,0.17,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+SO32- + 6H+ + 6e- → S2- + 3H2O,0.231,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",6,-1,0
+2SO42- + 10H+ + 8e- → S2O32- + 5H2O,0.29,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",8,-1,0
+SO42- + 10H+ + 8e- → H2S + 4H2O,0.311,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",8,-1,0
+SO42- + 8H+ + 6e- → S + 4H2O,0.357,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",6,-1,0
+2H2SO3 + 2H+ + 4e- → S2O32- + 3H2O,0.4,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,-1,0
+H2SO3 + 4H+ + 4e- → S + 3H2O,0.449,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,-1,0
+S2O32- + 6H+ + 4e- → 2S + 3H2O,0.5,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,-1,0
+2SO32- + 6H+ + 4e- → S2O32- + 3H2O,0.705,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,-1,0
+(SCN)2 + 2e- → 2SCN-,0.77,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,0
+S2O82- + 2e- → 2SO42-,2.01,S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,0
+SbO2- + 2H2O + 3e- → Sb + 4OH-,-0.675,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,0,1
+Sb + 3H+ + 3e- → SbH3,-0.51,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+SbO3- + H2O + 2e- → SbO2- + 2OH-,-0.43,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,0,1
+Sb2O3 + 6H+ + 6e- → 2Sb + 3H2O,0.152,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",6,-1,0
+Sb3+ + 3e- → Sb,0.2,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,0,0
+SbO+ + 2H+ + 3e- → Sb + H2O,0.212,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+SbO3- + 2H+ + 3e- → SbO2- + H2O,0.363,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+SbO2- + 4H+ + 3e- → Sb + 2H2O,0.446,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",3,-1,0
+Sb2O5 + 6H+ + 4e- → 2SbO+ + 3H2O,0.58,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",4,-1,0
+Sb2O5 + 4H+ + 4e- → Sb2O3 + 2H2O,0.671,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",4,-1,0
+Sb2O4 + 4H+ + 2e- → 2SbO+ + 2H2O,0.68,Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>","<Group(symbol=VA, name=Pnictogens)>",2,-1,0
+Sc3+ + 3e- → Sc,-2.077,Sc,Scandium,21,44.955908,160.0,148.0,21,0.188,4,"<Group(symbol=IIIB, name=)>","<Group(symbol=IIIB, name=)>",3,0,0
+Se + 2e- → Se2-,-0.92,Se,Selenium,34,78.971,115.0,116.0,34,2.02067,4,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,0
+Se + 2H+ + 2e- → H2Se,-0.4,Se,Selenium,34,78.971,115.0,116.0,34,2.02067,4,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+SeO32- + 3H2O + 4e- → Se + 6OH-,-0.366,Se,Selenium,34,78.971,115.0,116.0,34,2.02067,4,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,0,1
+SeO42- + H2O + 2e- → SeO32- + 2OH-,0.05,Se,Selenium,34,78.971,115.0,116.0,34,2.02067,4,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,1
+H2SeO3 + 4H+ + 4e- → Se + 3H2O,0.741,Se,Selenium,34,78.971,115.0,116.0,34,2.02067,4,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,-1,0
+SeO42- + 4H+ + 2e- → H2SeO3 + H2O,1.15,Se,Selenium,34,78.971,115.0,116.0,34,2.02067,4,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+SiO32- + 3H2O + 4e- → Si + 6OH-,-1.7,Si,Silicon,14,28.085,110.0,116.0,14,1.3895211,3,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,0,1
+[SiF6]2- + 4e- → Si + 6F-,-1.2,Si,Silicon,14,28.085,110.0,116.0,14,1.3895211,3,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,0,0
+SiO2 + 4H+ + 4e- → Si + 2H2O,-0.857,Si,Silicon,14,28.085,110.0,116.0,14,1.3895211,3,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+H2SiO3(aq) + 4H+ + 4e- → Si + 3H2O,-0.84,Si,Silicon,14,28.085,110.0,116.0,14,1.3895211,3,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+Si + 4H2O + 4e- → SiH4 + 4OH-,-0.73,Si,Silicon,14,28.085,110.0,116.0,14,1.3895211,3,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,0,1
+SiO32- + 6H+ + 4e- → Si + 3H2O,-0.455,Si,Silicon,14,28.085,110.0,116.0,14,1.3895211,3,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+Si + 4H+ + 4e- → SiH4,0.102,Si,Silicon,14,28.085,110.0,116.0,14,1.3895211,3,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+Sm3+ + 3e- → Sm,-2.41,Sm,Samarium,62,150.36,185.0,172.0,62,,6,,,3,0,0
+[Sn(OH)6]2- + 2e- → HSnO2- + 3OH- + H2O,-0.93,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,1
+HSnO2- + H2O + 2e- → Sn + 3OH-,-0.91,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,1
+SnS + 2e- → Sn + S2-,-0.87,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+[SnF6]2- + 4e- → Sn + 6F-,-0.25,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,0,0
+[SnCl4]2- + 2e- → Sn + 4Cl-,-0.19,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+Sn2+ + 2e- → Sn,-0.136,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+SnO2 + 2H+ + 2e- → SnO + H2O,-0.108,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+SnO2 + 4H+ + 4e- → Sn + 2H2O,-0.106,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,-1,0
+SnO + 2H+ + 2e- → Sn + H2O,-0.104,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+Sn(OH)2 + 2H+ + 2e- → Sn + 2H2O,-0.091,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,-1,0
+Sn4+ + 4e- → Sn,0.01,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",4,0,0
+Sn4+ + 2e- → Sn2+,0.151,Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>","<Group(symbol=IVA, name=Carbon group)>",2,0,0
+Sr2+ + 2e- → Sr,-2.888,Sr,Strontium,38,87.62,200.0,185.0,38,0.048,5,"<Group(symbol=IIA, name=Alkaline earths)>","<Group(symbol=IIA, name=Alkaline earths)>",2,0,0
+Ta2O5 + 10H+ + 10e- → 2Ta + 5H2O,-0.81,Ta,Tantalum,73,180.94788,145.0,146.0,73,0.322,6,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",10,-1,0
+Ta5+ + 5e- → Ta,-0.81,Ta,Tantalum,73,180.94788,145.0,146.0,73,0.322,6,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",5,0,0
+Tb3+ + 3e- → Tb,-2.391,Tb,Terbium,65,158.92535,175.0,168.0,65,1.165,6,,,3,0,0
+TcO2 + 4H+ + 2e- → Tc2+ + 2H2O,0.144,Tc,Technetium,43,97.90721,135.0,128.0,43,0.55,5,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,-1,0
+TcO2 + 4H+ + 4e- → Tc + 2H2O,0.272,Tc,Technetium,43,97.90721,135.0,128.0,43,0.55,5,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",4,-1,0
+Tc2+ + 2e- → Tc,0.4,Tc,Technetium,43,97.90721,135.0,128.0,43,0.55,5,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,0,0
+TcO4- + 8H+ + 5e- → Tc2+ + 4H2O,0.5,Tc,Technetium,43,97.90721,135.0,128.0,43,0.55,5,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",5,-1,0
+TcO4- + 2H+ + e- → TcO3 + H2O,0.7,Tc,Technetium,43,97.90721,135.0,128.0,43,0.55,5,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",1,-1,0
+TcO3 + 2H+ + 2e- → TcO2 + H2O,0.757,Tc,Technetium,43,97.90721,135.0,128.0,43,0.55,5,"<Group(symbol=VIIB, name=)>","<Group(symbol=VIIB, name=)>",2,-1,0
+Te + 2e- → Te2-,-1.14,Te,Tellurium,52,127.6,140.0,136.0,52,1.970876,5,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,0
+Te + 2H+ + 2e- → H2Te,-0.72,Te,Tellurium,52,127.6,140.0,136.0,52,1.970876,5,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+TeO32- + 3H2O + 4e- → Te + 6OH-,-0.57,Te,Tellurium,52,127.6,140.0,136.0,52,1.970876,5,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,0,1
+TeO42- + H2O + 2e- → TeO32- + 2OH-,0.4,Te,Tellurium,52,127.6,140.0,136.0,52,1.970876,5,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,0,1
+TeO2 + 4H+ + 4e- → Te + 2H2O,0.529,Te,Tellurium,52,127.6,140.0,136.0,52,1.970876,5,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,-1,0
+[TeCl6]2- + 4e- → Te + 6Cl-,0.65,Te,Tellurium,52,127.6,140.0,136.0,52,1.970876,5,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",4,0,0
+TeO42- + 2H+ + 2e- → TeO32- + H2O,0.892,Te,Tellurium,52,127.6,140.0,136.0,52,1.970876,5,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+H6TeO6 + 2H+ + 2e- → TeO2 + 4H2O,1.02,Te,Tellurium,52,127.6,140.0,136.0,52,1.970876,5,"<Group(symbol=VIA, name=Chalcogens)>","<Group(symbol=VIA, name=Chalcogens)>",2,-1,0
+Th(OH)4 + 4e- → Th + 4OH-,-2.48,Th,Thorium,90,232.0377,180.0,175.0,90,,7,,,4,0,1
+Th4+ + e- → Th3+,-2.4,Th,Thorium,90,232.0377,180.0,175.0,90,,7,,,1,0,0
+Th4+ + 4e- → Th,-1.899,Th,Thorium,90,232.0377,180.0,175.0,90,,7,,,4,0,0
+ThO2 + 4H+ + 4e- → Th + H2O,-1.789,Th,Thorium,90,232.0377,180.0,175.0,90,,7,,,4,-1,0
+Th3+ + 3e- → Th,-1.73,Th,Thorium,90,232.0377,180.0,175.0,90,,7,,,3,0,0
+Ti2+ + 2e- → Ti,-1.63,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",2,0,0
+TiO2 + 2H+ + 2e- → Ti + H2O,-1.306,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",2,-1,0
+[TiF6]2- + 4e- → Ti + 6F-,-1.19,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,0,0
+Ti4+ + 4e- → Ti,-0.88,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,0,0
+TiO2+ + 2H+ + 4e- → Ti + H2O,-0.88,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,-1,0
+TiO2 + 4H+ + 4e- → Ti + 2H2O,-0.86,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,-1,0
+TiO2 + 4H+ + e- → Ti3+ + 2H2O,-0.666,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",1,-1,0
+TiO2 + 4H+ + 2e- → Ti2+ + 2H2O,-0.502,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",2,-1,0
+Ti3+ + e- → Ti2+,-0.368,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",1,0,0
+TiO2+ + 2H+ + 2e- → Ti2+ + H2O,-0.135,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",2,-1,0
+Ti4+ + e- → Ti3+,0.092,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",1,0,0
+TiO2+ + 2H+ + e- → Ti3+ + H2O,0.1,Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",1,-1,0
+Tl2S + 2e- → 2Tl + S2-,-0.93,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",2,0,0
+TlI + e- → Tl + I-,-0.753,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",1,0,0
+TlBr + e- → Tl + Br-,-0.658,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",1,0,0
+TlCl + e- → Tl + Cl-,-0.557,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",1,0,0
+TlOH + e- → Tl + OH-,-0.344,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",1,0,1
+Tl+ + e- → Tl,-0.336,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",1,0,0
+Tl(OH)3 + 2e- → TlOH + 2OH-,-0.05,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",2,0,1
+Tl2O3 + 3H2O + 4e- → 2Tl+ + 6OH-,0.02,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",4,0,1
+Tl3+ + 3e- → Tl,0.734,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",3,0,0
+TlOH + H+ + e- → Tl + H2O,0.778,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",1,-1,0
+Tl3+ + 2e- → Tl+,1.252,Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>","<Group(symbol=IIIA, name=Boron group)>",2,0,0
+Tm3+ + 3e- → Tm,-2.278,Tm,Thulium,69,168.93422,175.0,164.0,69,1.029,6,,,3,0,0
+UO2 + 2H2O + 4e- → U + 4OH-,-2.39,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,4,0,1
+U(OH)3 + 3e- → U + 3OH-,-2.17,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,3,0,1
+U3+ + 3e- → U,-1.789,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,3,0,0
+U4+ + 4e- → U,-1.5,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,4,0,0
+UO2 + 4H+ + 4e- → U + 2H2O,-1.444,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,4,-1,0
+U2O3 + 6H+ + 6e- → 2U + 3H2O,-1.346,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,6,-1,0
+U4+ + e- → U3+,-0.607,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,1,0,0
+UO2 + 4H+ + e- → U3+ + 2H2O,-0.382,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,1,-1,0
+UO22+ + e- → UO2+,0.052,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,1,0,0
+UO22+ + 4H+ + 2e- → U4+ + 2H2O,0.333,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,2,-1,0
+UO3 + H2O + 2H+ + 2e- → UO2 + 2H2O,0.368,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,2,-1,0
+UO22+ + 2e- → UO2,0.45,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,2,0,0
+UO2+ + 4H+ + e- → U4+ + 2H2O,0.6,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,1,-1,0
+UO3 + 2H+ + 2e- → UO2 + H2O,0.657,U,Uranium,92,238.02891,175.0,170.0,92,,7,,,2,-1,0
+V2+ + 2e- → V,-1.175,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",2,0,0
+V3+ + 3e- → V,-0.87,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",3,0,0
+V3+ + e- → V2+,-0.255,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",1,0,0
+VO2+ + 4H+ + 5e- → V + 2H2O,-0.25,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",5,-1,0
+VO2+ + e- → VO+,-0.044,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",1,0,0
+VO2+ + 2H+ + e- → V3+ + H2O,0.36,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",1,-1,0
+VO2+ + 4H+ + 3e- → V2+ + 2H2O,0.36,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",3,-1,0
+VO2+ + 4H+ + 2e- → V3+ + 2H2O,0.668,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",2,-1,0
+V2O5 + 6H+ + 2e- → 2VO2+ + 3H2O,0.958,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",2,-1,0
+VO2+ + 2H+ + e- → VO2+ + H2O,1.004,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",1,-1,0
+VO43- + 6H+ + 2e- → VO+ + 3H2O,1.256,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",2,-1,0
+H2VO4- + 4H+ + e- → VO2+ + 3H2O,1.314,V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>","<Group(symbol=VB, name=)>",1,-1,0
+WO42- + 4H2O + 6e- → W + 8OH-,-1.05,W,Tungsten,74,183.84,135.0,137.0,74,0.81626,6,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",6,0,1
+WO2 + 4H+ + 4e- → W + 2H2O,-0.119,W,Tungsten,74,183.84,135.0,137.0,74,0.81626,6,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",4,-1,0
+WO3 + 6H+ + 6e- → W + 3H2O,-0.09,W,Tungsten,74,183.84,135.0,137.0,74,0.81626,6,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",6,-1,0
+W2O5 + 2H+ + 2e- → 2WO2 + H2O,-0.031,W,Tungsten,74,183.84,135.0,137.0,74,0.81626,6,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",2,-1,0
+2WO3 + 2H+ + 2e- → W2O5 + H2O,-0.029,W,Tungsten,74,183.84,135.0,137.0,74,0.81626,6,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",2,-1,0
+WO42- + 8H+ + 6e- → W + 4H2O,0.049,W,Tungsten,74,183.84,135.0,137.0,74,0.81626,6,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",6,-1,0
+[W(CN)8]3- + e- → [W(CN)8]4-,0.457,W,Tungsten,74,183.84,135.0,137.0,74,0.81626,6,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",1,0,0
+[W(CN)6]3- + e- → [W(CN)6]4-,0.5,W,Tungsten,74,183.84,135.0,137.0,74,0.81626,6,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",1,0,0
+2WO42- + 6H+ + 2e- → W2O5 + 3H2O,0.801,W,Tungsten,74,183.84,135.0,137.0,74,0.81626,6,"<Group(symbol=VIB, name=)>","<Group(symbol=VIB, name=)>",2,-1,0
+Y(OH)3 + 3e- → Y + 3OH-,-2.81,Y,Yttrium,39,88.90584,180.0,163.0,39,0.307,5,"<Group(symbol=IIIB, name=)>","<Group(symbol=IIIB, name=)>",3,0,1
+Y3+ + 3e- → Y,-2.372,Y,Yttrium,39,88.90584,180.0,163.0,39,0.307,5,"<Group(symbol=IIIB, name=)>","<Group(symbol=IIIB, name=)>",3,0,0
+Yb3+ + e- → Yb2+,-1.205,Yb,Ytterbium,70,173.045,175.0,170.0,70,-0.02,6,,,1,0,0
+ZnS + 2e- → Zn + S2-,-1.405,Zn,Zinc,30,65.38,135.0,118.0,30,,4,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+[Zn(CN)4]2- + 2e- → Zn + 4CN-,-1.26,Zn,Zinc,30,65.38,135.0,118.0,30,,4,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Zn(OH)2 + 2e- → Zn + 2OH-,-1.245,Zn,Zinc,30,65.38,135.0,118.0,30,,4,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,1
+ZnO22- + 2H2O + 2e- → Zn + 4OH-,-1.216,Zn,Zinc,30,65.38,135.0,118.0,30,,4,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,1
+ZnCO3 + 2e- → Zn + CO32-,-1.06,Zn,Zinc,30,65.38,135.0,118.0,30,,4,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+[Zn(NH3)4]2+ + 2e- → Zn + 4NH3,-1.04,Zn,Zinc,30,65.38,135.0,118.0,30,,4,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+Zn2+ + 2e- → Zn,-0.763,Zn,Zinc,30,65.38,135.0,118.0,30,,4,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,0,0
+ZnO22- + 4H+ + 2e- → Zn + 2H2O,0.441,Zn,Zinc,30,65.38,135.0,118.0,30,,4,"<Group(symbol=IIB, name=)>","<Group(symbol=IIB, name=)>",2,-1,0
+H2ZrO3 + H2O + 4e- → Zr + 4OH-,-2.36,Zr,Zirconium,40,91.224,155.0,154.0,40,0.426,5,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,0,1
+ZrO2+ + 2H+ + 4e- → Zr + H2O,-1.57,Zr,Zirconium,40,91.224,155.0,154.0,40,0.426,5,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,-1,0
+Zr4+ + 4e- → Zr,-1.539,Zr,Zirconium,40,91.224,155.0,154.0,40,0.426,5,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,0,0
+ZrO2 + 4H+ + 4e- → Zr + 2H2O,-1.43,Zr,Zirconium,40,91.224,155.0,154.0,40,0.426,5,"<Group(symbol=IVB, name=)>","<Group(symbol=IVB, name=)>",4,-1,0

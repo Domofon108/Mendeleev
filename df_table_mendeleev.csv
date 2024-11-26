@@ -1,0 +1,119 @@
+Symbol,Name,Atomic_Number,Atomic_Mass,Atomic_radius,Covalent_radius,Electrons,Electron_affinity,Period,group
+H,Hydrogen,1,1.008,25.0,32.0,1,0.754195,1,"<Group(symbol=IA, name=Alkali metals)>"
+He,Helium,2,4.002602,120.0,46.0,2,-19.7,1,"<Group(symbol=VIIIA, name=Noble gases)>"
+Li,Lithium,3,6.94,145.0,133.0,3,0.618049,2,"<Group(symbol=IA, name=Alkali metals)>"
+Be,Beryllium,4,9.0121831,105.0,102.0,4,-2.4,2,"<Group(symbol=IIA, name=Alkaline earths)>"
+B,Boron,5,10.81,85.0,85.0,5,0.279723,2,"<Group(symbol=IIIA, name=Boron group)>"
+C,Carbon,6,12.011,70.0,75.0,6,1.262119,2,"<Group(symbol=IVA, name=Carbon group)>"
+N,Nitrogen,7,14.007,65.0,71.0,7,-1.4,2,"<Group(symbol=VA, name=Pnictogens)>"
+O,Oxygen,8,15.999,60.0,63.0,8,1.4611135,2,"<Group(symbol=VIA, name=Chalcogens)>"
+F,Fluorine,9,18.998403163,50.0,64.0,9,3.4011897000000006,2,"<Group(symbol=VIIA, name=Halogens)>"
+Ne,Neon,10,20.1797,160.0,67.0,10,,2,"<Group(symbol=VIIIA, name=Noble gases)>"
+Na,Sodium,11,22.98976928,180.0,155.0,11,0.547926,3,"<Group(symbol=IA, name=Alkali metals)>"
+Mg,Magnesium,12,24.305,150.0,139.0,12,,3,"<Group(symbol=IIA, name=Alkaline earths)>"
+Al,Aluminum,13,26.9815385,125.0,126.0,13,0.43283,3,"<Group(symbol=IIIA, name=Boron group)>"
+Si,Silicon,14,28.085,110.0,115.99999999999999,14,1.3895211,3,"<Group(symbol=IVA, name=Carbon group)>"
+P,Phosphorus,15,30.973761998,100.0,111.00000000000001,15,0.746607,3,"<Group(symbol=VA, name=Pnictogens)>"
+S,Sulfur,16,32.06,100.0,103.0,16,2.07710403,3,"<Group(symbol=VIA, name=Chalcogens)>"
+Cl,Chlorine,17,35.45,100.0,99.0,17,3.612725,3,"<Group(symbol=VIIA, name=Halogens)>"
+Ar,Argon,18,39.948,71.0,96.0,18,-11.5,3,"<Group(symbol=VIIIA, name=Noble gases)>"
+K,Potassium,19,39.0983,220.0,196.0,19,0.50147,4,"<Group(symbol=IA, name=Alkali metals)>"
+Ca,Calcium,20,40.078,180.0,171.0,20,0.02455,4,"<Group(symbol=IIA, name=Alkaline earths)>"
+Sc,Scandium,21,44.955908,160.0,148.0,21,0.188,4,"<Group(symbol=IIIB, name=)>"
+Ti,Titanium,22,47.867,140.0,136.0,22,0.079,4,"<Group(symbol=IVB, name=)>"
+V,Vanadium,23,50.9415,135.0,134.0,23,0.525,4,"<Group(symbol=VB, name=)>"
+Cr,Chromium,24,51.9961,140.0,122.0,24,0.6659999999999999,4,"<Group(symbol=VIB, name=)>"
+Mn,Manganese,25,54.938044,140.0,119.0,25,,4,"<Group(symbol=VIIB, name=)>"
+Fe,Iron,26,55.845,140.0,115.99999999999999,26,0.151,4,"<Group(symbol=VIIIB, name=)>"
+Co,Cobalt,27,58.933194,135.0,111.00000000000001,27,0.66225646,4,"<Group(symbol=VIIIB, name=)>"
+Ni,Nickel,28,58.6934,135.0,110.00000000000001,28,1.156,4,"<Group(symbol=VIIIB, name=)>"
+Cu,Copper,29,63.546,135.0,112.00000000000001,29,1.235,4,"<Group(symbol=IB, name=Coinage metals)>"
+Zn,Zinc,30,65.38,135.0,118.0,30,,4,"<Group(symbol=IIB, name=)>"
+Ga,Gallium,31,69.723,130.0,124.0,31,0.43,4,"<Group(symbol=IIIA, name=Boron group)>"
+Ge,Germanium,32,72.63,125.0,121.0,32,1.232712,4,"<Group(symbol=IVA, name=Carbon group)>"
+As,Arsenic,33,74.921595,115.0,121.0,33,0.804,4,"<Group(symbol=VA, name=Pnictogens)>"
+Se,Selenium,34,78.971,115.0,115.99999999999999,34,2.02067,4,"<Group(symbol=VIA, name=Chalcogens)>"
+Br,Bromine,35,79.904,115.0,113.99999999999999,35,3.3635882000000006,4,"<Group(symbol=VIIA, name=Halogens)>"
+Kr,Krypton,36,83.798,,117.0,36,,4,"<Group(symbol=VIIIA, name=Noble gases)>"
+Rb,Rubidium,37,85.4678,235.0,210.0,37,0.48591999999999996,5,"<Group(symbol=IA, name=Alkali metals)>"
+Sr,Strontium,38,87.62,200.0,185.0,38,0.048,5,"<Group(symbol=IIA, name=Alkaline earths)>"
+Y,Yttrium,39,88.90584,180.0,163.0,39,0.307,5,"<Group(symbol=IIIB, name=)>"
+Zr,Zirconium,40,91.224,155.0,154.0,40,0.426,5,"<Group(symbol=IVB, name=)>"
+Nb,Niobium,41,92.90637,145.0,147.0,41,0.917406,5,"<Group(symbol=VB, name=)>"
+Mo,Molybdenum,42,95.95,145.0,138.0,42,0.748,5,"<Group(symbol=VIB, name=)>"
+Tc,Technetium,43,97.90721,135.0,128.0,43,0.55,5,"<Group(symbol=VIIB, name=)>"
+Ru,Ruthenium,44,101.07,130.0,125.0,44,1.05,5,"<Group(symbol=VIIIB, name=)>"
+Rh,Rhodium,45,102.9055,135.0,125.0,45,1.137,5,"<Group(symbol=VIIIB, name=)>"
+Pd,Palladium,46,106.42,140.0,120.0,46,0.562,5,"<Group(symbol=VIIIB, name=)>"
+Ag,Silver,47,107.8682,160.0,128.0,47,1.3019999999999998,5,"<Group(symbol=IB, name=Coinage metals)>"
+Cd,Cadmium,48,112.414,155.0,136.0,48,,5,"<Group(symbol=IIB, name=)>"
+In,Indium,49,114.818,155.0,142.0,49,0.3,5,"<Group(symbol=IIIA, name=Boron group)>"
+Sn,Tin,50,118.71,145.0,140.0,50,1.112067,5,"<Group(symbol=IVA, name=Carbon group)>"
+Sb,Antimony,51,121.76,145.0,140.0,51,1.046,5,"<Group(symbol=VA, name=Pnictogens)>"
+Te,Tellurium,52,127.6,140.0,136.0,52,1.9708759999999999,5,"<Group(symbol=VIA, name=Chalcogens)>"
+I,Iodine,53,126.90447,140.0,133.0,53,3.0590368,5,"<Group(symbol=VIIA, name=Halogens)>"
+Xe,Xenon,54,131.293,,131.0,54,-0.055999999999999994,5,"<Group(symbol=VIIIA, name=Noble gases)>"
+Cs,Cesium,55,132.90545196,260.0,231.99999999999997,55,0.47162600000000005,6,"<Group(symbol=IA, name=Alkali metals)>"
+Ba,Barium,56,137.327,215.0,196.0,56,0.14462,6,"<Group(symbol=IIA, name=Alkaline earths)>"
+La,Lanthanum,57,138.90547,195.0,180.0,57,0.47,6,"<Group(symbol=IIIB, name=)>"
+Ce,Cerium,58,140.116,185.0,163.0,58,0.65,6,
+Pr,Praseodymium,59,140.90766,185.0,176.0,59,0.9620000000000001,6,
+Nd,Neodymium,60,144.242,185.0,174.0,60,1.916,6,
+Pm,Promethium,61,144.91276,185.0,173.0,61,,6,
+Sm,Samarium,62,150.36,185.0,172.0,62,,6,
+Eu,Europium,63,151.964,185.0,168.0,63,0.8640000000000001,6,
+Gd,Gadolinium,64,157.25,180.0,169.0,64,,6,
+Tb,Terbium,65,158.92535,175.0,168.0,65,1.165,6,
+Dy,Dysprosium,66,162.5,175.0,167.0,66,0.35200000000000004,6,
+Ho,Holmium,67,164.93033,175.0,166.0,67,,6,
+Er,Erbium,68,167.259,175.0,165.0,68,,6,
+Tm,Thulium,69,168.93422,175.0,164.0,69,1.0290000000000001,6,
+Yb,Ytterbium,70,173.045,175.0,170.0,70,-0.02,6,
+Lu,Lutetium,71,174.9668,175.0,162.0,71,0.34,6,
+Hf,Hafnium,72,178.49,155.0,152.0,72,0.013999999999999999,6,"<Group(symbol=IVB, name=)>"
+Ta,Tantalum,73,180.94788,145.0,146.0,73,0.322,6,"<Group(symbol=VB, name=)>"
+W,Tungsten,74,183.84,135.0,137.0,74,0.81626,6,"<Group(symbol=VIB, name=)>"
+Re,Rhenium,75,186.207,135.0,131.0,75,0.15,6,"<Group(symbol=VIIB, name=)>"
+Os,Osmium,76,190.23,130.0,129.0,76,1.1,6,"<Group(symbol=VIIIB, name=)>"
+Ir,Iridium,77,192.217,135.0,122.0,77,1.5638,6,"<Group(symbol=VIIIB, name=)>"
+Pt,Platinum,78,195.084,135.0,123.0,78,2.128,6,"<Group(symbol=VIIIB, name=)>"
+Au,Gold,79,196.966569,135.0,124.0,79,2.30863,6,"<Group(symbol=IB, name=Coinage metals)>"
+Hg,Mercury,80,200.592,150.0,133.0,80,,6,"<Group(symbol=IIB, name=)>"
+Tl,Thallium,81,204.38,190.0,144.0,81,0.377,6,"<Group(symbol=IIIA, name=Boron group)>"
+Pb,Lead,82,207.2,180.0,144.0,82,0.35674316,6,"<Group(symbol=IVA, name=Carbon group)>"
+Bi,Bismuth,83,208.9804,160.0,151.0,83,0.942362,6,"<Group(symbol=VA, name=Pnictogens)>"
+Po,Polonium,84,209.0,190.0,145.0,84,1.9,6,"<Group(symbol=VIA, name=Chalcogens)>"
+At,Astatine,85,210.0,,147.0,85,2.8,6,"<Group(symbol=VIIA, name=Halogens)>"
+Rn,Radon,86,222.0,,142.0,86,,6,"<Group(symbol=VIIIA, name=Noble gases)>"
+Fr,Francium,87,223.0,,223.0,87,0.486,7,"<Group(symbol=IA, name=Alkali metals)>"
+Ra,Radium,88,226.0,215.0,200.99999999999997,88,0.1,7,"<Group(symbol=IIA, name=Alkaline earths)>"
+Ac,Actinium,89,227.0,195.0,186.0,89,0.35,7,"<Group(symbol=IIIB, name=)>"
+Th,Thorium,90,232.0377,180.0,175.0,90,,7,
+Pa,Protactinium,91,231.03588,180.0,169.0,91,,7,
+U,Uranium,92,238.02891,175.0,170.0,92,,7,
+Np,Neptunium,93,237.0,175.0,171.0,93,,7,
+Pu,Plutonium,94,244.0,175.0,172.0,94,,7,
+Am,Americium,95,243.0,175.0,166.0,95,,7,
+Cm,Curium,96,247.0,,166.0,96,,7,
+Bk,Berkelium,97,247.0,,168.0,97,,7,
+Cf,Californium,98,251.0,,168.0,98,,7,
+Es,Einsteinium,99,252.0,,165.0,99,,7,
+Fm,Fermium,100,257.0,,167.0,100,,7,
+Md,Mendelevium,101,258.0,,173.0,101,,7,
+No,Nobelium,102,259.0,,176.0,102,,7,
+Lr,Lawrencium,103,262.0,,161.0,103,,7,
+Rf,Rutherfordium,104,267.0,,157.0,104,,7,"<Group(symbol=IVB, name=)>"
+Db,Dubnium,105,268.0,,149.0,105,,7,"<Group(symbol=VB, name=)>"
+Sg,Seaborgium,106,271.0,,143.0,106,,7,"<Group(symbol=VIB, name=)>"
+Bh,Bohrium,107,274.0,,141.0,107,,7,"<Group(symbol=VIIB, name=)>"
+Hs,Hassium,108,269.0,,134.0,108,,7,"<Group(symbol=VIIIB, name=)>"
+Mt,Meitnerium,109,276.0,,129.0,109,,7,"<Group(symbol=VIIIB, name=)>"
+Ds,Darmstadtium,110,281.0,,128.0,110,,7,"<Group(symbol=VIIIB, name=)>"
+Rg,Roentgenium,111,281.0,,121.0,111,,7,"<Group(symbol=IB, name=Coinage metals)>"
+Cn,Copernicium,112,285.0,,122.0,112,,7,"<Group(symbol=IIB, name=)>"
+Nh,Nihonium,113,286.0,,136.0,113,,7,"<Group(symbol=IIIA, name=Boron group)>"
+Fl,Flerovium,114,289.0,,143.0,114,,7,"<Group(symbol=IVA, name=Carbon group)>"
+Mc,Moscovium,115,288.0,,162.0,115,,7,"<Group(symbol=VA, name=Pnictogens)>"
+Lv,Livermorium,116,293.0,,175.0,116,,7,"<Group(symbol=VIA, name=Chalcogens)>"
+Ts,Tennessine,117,294.0,,165.0,117,,7,"<Group(symbol=VIIA, name=Halogens)>"
+Og,Oganesson,118,294.0,,157.0,118,0.055999999999999994,7,"<Group(symbol=VIIIA, name=Noble gases)>"
